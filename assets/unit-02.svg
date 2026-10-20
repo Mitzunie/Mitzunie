@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="238" viewBox="0 0 1200 238" role="img" aria-label="MITZU:01 — Un espacio para la música y sus letras. PRIVATE. VIEW PROJECT."><title>MITZU:01 — Un espacio para la música y sus letras. PRIVATE. VIEW PROJECT.</title><defs><pattern id="scan" width="4" height="5" patternUnits="userSpaceOnUse"><path d="M0 4.5H4" stroke="#ffffff" stroke-opacity=".035"/></pattern><pattern id="hazard" width="32" height="32" patternUnits="userSpaceOnUse" patternTransform="rotate(-40)"><rect width="13" height="32" fill="#ff332e"/></pattern><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ff332e" stroke-opacity=".09"/></pattern></defs><rect width="1200" height="238" fill="#090a0b"/><g font-family="'Courier New',monospace">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="238" viewBox="0 0 1200 238" role="img" aria-label="MITZU:01 — Un espacio para la música y sus letras. PRIVATE. ACCESS RESTRICTED."><title>MITZU:01 — Un espacio para la música y sus letras. PRIVATE. ACCESS RESTRICTED.</title><defs><pattern id="scan" width="4" height="5" patternUnits="userSpaceOnUse"><path d="M0 4.5H4" stroke="#ffffff" stroke-opacity=".035"/></pattern><pattern id="hazard" width="32" height="32" patternUnits="userSpaceOnUse" patternTransform="rotate(-40)"><rect width="13" height="32" fill="#ff332e"/></pattern><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ff332e" stroke-opacity=".09"/></pattern></defs><rect width="1200" height="238" fill="#090a0b"/><g font-family="'Courier New',monospace">
  <rect x="1" y="1" width="1198" height="236" fill="#1c0d0d" stroke="#f34b40" stroke-opacity=".45" stroke-width="2"/>
  <rect x="0" y="0" width="8" height="238" fill="#f34b40"/><path d="M8 2H1199" stroke="#ffb34e" stroke-width="3"/>
  <path d="M960 1V185M1000 1V185M1040 1V185M1080 1V185M1120 1V185M1160 1V185M960 40H1199M960 80H1199M960 120H1199M960 160H1199" stroke="#f34b40" stroke-opacity=".10"/>
@@ -13,5 +13,5 @@
  <rect x="30" y="200" width="132" height="25" fill="#f34b40"/>
  <text x="42" y="219" font-size="18" fill="#090a0b" font-weight="bold">PRIVATE</text>
  
- <text x="1164" y="219" font-size="18" fill="#ffb34e" text-anchor="end" font-weight="bold">VIEW PROJECT ↗</text>
+ <text x="1164" y="219" font-size="18" fill="#ffb34e" text-anchor="end" font-weight="bold">ACCESS RESTRICTED</text>
  </g><rect width="1200" height="238" fill="url(#scan)" pointer-events="none"/></svg>
