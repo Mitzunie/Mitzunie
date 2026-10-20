@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="238" viewBox="0 0 1200 238" role="img" aria-label="MITZU:01 — Un espacio para la música y sus letras. PRIVATE. VIEW PROJECT."><title>MITZU:01 — Un espacio para la música y sus letras. PRIVATE. VIEW PROJECT.</title><defs><pattern id="scan" width="4" height="5" patternUnits="userSpaceOnUse"><path d="M0 4.5H4" stroke="#ffffff" stroke-opacity=".035"/></pattern><pattern id="hazard" width="32" height="32" patternUnits="userSpaceOnUse" patternTransform="rotate(-40)"><rect width="13" height="32" fill="#ff332e"/></pattern><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ff332e" stroke-opacity=".09"/></pattern></defs><rect width="1200" height="238" fill="#090a0b"/><g font-family="'Courier New',monospace">
+ <rect x="1" y="1" width="1198" height="236" fill="#1c0d0d" stroke="#f34b40" stroke-opacity=".45" stroke-width="2"/>
+ <rect x="0" y="0" width="8" height="238" fill="#f34b40"/><path d="M8 2H1199" stroke="#ffb34e" stroke-width="3"/>
+ <path d="M960 1V185M1000 1V185M1040 1V185M1080 1V185M1120 1V185M1160 1V185M960 40H1199M960 80H1199M960 120H1199M960 160H1199" stroke="#f34b40" stroke-opacity=".10"/>
+ <text x="32" y="47" font-size="17" fill="#a59c93" letter-spacing="3">UNIT</text>
+ <text x="27" y="125" font-size="75" fill="#f34b40" font-family="Arial,sans-serif" font-weight="bold" letter-spacing="-5">02</text>
+ <path d="M132 26V163" stroke="#422826"/>
+ <text x="160" y="45" font-size="18" fill="#ffb34e" letter-spacing="2">MUSIC &amp; LYRICS</text>
+ <text x="156" y="105" font-size="56" fill="#f0e8dd" font-family="Arial,sans-serif" font-weight="900" letter-spacing="-2">MITZU:01</text>
+ <text x="160" y="145" font-size="21" fill="#a59c93" >Un espacio para la música y sus letras.</text>
+ <g stroke="#f34b40" stroke-width="5"><path d="M1008 92v16"/><path d="M1019 84v32"/><path d="M1030 73v54"/><path d="M1041 86.5v27"/><path d="M1052 62v76"/><path d="M1063 46v108"/><path d="M1074 68.5v63"/><path d="M1085 81v38"/><path d="M1096 54.5v91"/><path d="M1107 71v58"/><path d="M1118 88v24"/><path d="M1129 77v46"/><path d="M1140 91.5v17"/></g>
+ <path d="M8 185H1199" stroke="#f34b40" stroke-width="1"/>
+ <rect x="30" y="200" width="132" height="25" fill="#f34b40"/>
+ <text x="42" y="219" font-size="18" fill="#090a0b" font-weight="bold">PRIVATE</text>
+ 
+ <text x="1164" y="219" font-size="18" fill="#ffb34e" text-anchor="end" font-weight="bold">VIEW PROJECT ↗</text>
+ </g><rect width="1200" height="238" fill="url(#scan)" pointer-events="none"/></svg>
